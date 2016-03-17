@@ -3,6 +3,9 @@ the few things to do to get started with git, node, npm
 
 # git
 
+for an in depth introduction, check this out 
+- https://github.com/auremoser/git-intro
+
 set email and authors variables
 
 https://help.github.com/articles/setting-your-username-in-git/
