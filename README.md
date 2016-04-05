@@ -51,3 +51,11 @@ npm config set init.license MIT
 ```
 
 To choose the most appropriate licence for your work, consider to take a look at http://choosealicense.com/
+
+# suggestion
+
+I suggest you this snippet alias to start a module,
+
+```sh
+alias npi='npm init -y && git init && touch .gitignore && touch index.js && mkdir test && touch README.md && test/index.js'
+```
