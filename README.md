@@ -18,6 +18,7 @@ git config --global user.email "YOUR EMAIL ADDRESS" # same as your github email
 Check also,
 - this guideline to manage your privacy https://help.github.com/articles/keeping-your-email-address-private/
 - https://help.github.com/articles/setting-your-username-in-git/
+- https://github.com/blog/2144-gpg-signature-verification
 
 # ssh
 
